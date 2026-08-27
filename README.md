@@ -89,7 +89,7 @@
   </tr>
   <tr>
     <td width="90" align="center">
-      <img src="dailybackup.jpg" width="60" alt="DailyBackup" />
+      <img src="dailybackup.png" width="60" alt="DailyBackup" />
     </td>
     <td>
       <b><a href="https://github.com/HitsuK0/[nom-du-repo-2]">DailyBackup</a></b><br/>
@@ -100,7 +100,7 @@
   </tr>
   <tr>
     <td width="90" align="center">
-      <img src="taskflow.jpg" width="60" alt="TaskFlow" />
+      <img src="taskflow.png" width="60" alt="TaskFlow" />
     </td>
     <td>
       <b><a href="https://github.com/HitsuK0/[nom-du-repo-2]">TaskFlow</a></b><br/>
