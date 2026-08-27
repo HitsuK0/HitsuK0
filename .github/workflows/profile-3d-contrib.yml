@@ -13,6 +13,9 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Récupère le repo
+        uses: actions/checkout@v4
+
       - name: Génère le calendrier 3D
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
