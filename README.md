@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ABAB5,50:2E9EF7,100:9D50BB&height=220&section=header&text=Wellinger%20Chloé&fontSize=60&fontColor=ffffff&desc=Développeuse%20Junior&descAlignY=65&descSize=22&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ABAB5,50:2E9EF7,100:9D50BB&height=220&section=header&text=Wellinger%20Chloé&fontSize=60&fontColor=ffffff&desc=Développeuse%20Junior&descAlignY=65&descSize=22&animation=fadeIn](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Wellinger%20Chloé&reversal=true&textBg=false&desc=Développeuse&descAlign=50&descAlignY=62&descSize=40&fontAlignY=35)" />
 </p>
 
 <p align="center">
@@ -129,3 +129,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HitsuK0&style=flat-square&color=blueviolet" alt="Compteur de visites" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ABAB5,50:2E9EF7,100:9D50BB&height=220&section=header&text=Wellinger%20Chloé&fontSize=60&fontColor=ffffff&desc=Développeuse%20Junior&descAlignY=65&descSize=22&animation=fadeIn](https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Wellinger%20Chloé&reversal=true&textBg=false&desc=Développeuse&descAlign=50&descAlignY=62&descSize=40&fontAlignY=35)](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&reversal=true&textBg=false&descAlign=50&descAlignY=62&descSize=40&fontAlignY=35&section=footer&fontAlign=44
+)" />
+</p>
+
