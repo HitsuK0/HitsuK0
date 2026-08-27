@@ -1,4 +1,6 @@
-<h1 align="center">Salut, je suis Chloé 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ABAB5,50:2E9EF7,100:9D50BB&height=220&section=header&text=Wellinger%20Chloé&fontSize=60&fontColor=ffffff&desc=Développeuse%20Junior&descAlignY=65&descSize=22&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=2E9EF7&center=true&vCenter=true&width=700&lines=%C3%89tudiante+en+informatique+%F0%9F%92%BB;Passionn%C3%A9e+par+le+d%C3%A9veloppement+logiciel;Curieuse+et+motiv%C3%A9e+face+aux+d%C3%A9fis+techniques;Je+transforme+des+id%C3%A9es+en+solutions+concr%C3%A8tes+%F0%9F%9A%80" />
@@ -37,7 +39,7 @@
 
 **Bases de données**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
 
 **Web**
@@ -60,11 +62,6 @@
 ---
 
 ### 📊 Mes stats GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HitsuK0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HitsuK0&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HitsuK0&theme=tokyonight&hide_border=true" />
