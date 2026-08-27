@@ -68,7 +68,7 @@
 
 ---
 
-### 🚀 Projets phares
+### 🚀 Projets 
 
 <table>
   <tr>
@@ -77,7 +77,7 @@
     </td>
     <td>
       <b><a href="https://github.com/HitsuK0/[nom-du-repo-1]">Lexia</a></b><br/>
-      [Mini description du projet en une ou deux phrases]<br/><br/>
+      Application de planification des horaires développée dans le cadre d’un projet scolaire réalisé pour l’ASBL Comprendre et Parler. <br/><br/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -85,23 +85,36 @@
   </tr>
   <tr>
     <td width="90" align="center">
-      <img src="[URL_LOGO_PROJET_2]" width="60" alt="[Nom du projet 2]" />
+      <img src="dailybackup.png" width="60" alt="DailyBackup" />
     </td>
     <td>
-      <b><a href="https://github.com/HitsuK0/[nom-du-repo-2]">[Nom du projet 2]</a></b><br/>
-      [Mini description du projet en une ou deux phrases]<br/><br/>
+      <b><a href="https://github.com/HitsuK0/[nom-du-repo-2]">DalyBackup</a></b><br/>
+      Conception et développement d’une application de gestion de sauvegardes, permettant de configurer les fichiers à sauvegarder, restaurer des données et réinitialiser les paramètres.<br/><br/>
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
       <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="90" align="center">
+      <img src="taskflow.png" width="60" alt="TaskFlow" />
+    </td>
+    <td>
+      <b><a href="https://github.com/HitsuK0/[nom-du-repo-2]">TaskFlow</a></b><br/>
+      Conception et développement d’une application collaborative de gestion de tâches en temps réel, avec authentification, gestion multi-utilisateurs et synchronisation via WebSocket. <br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaFX-FF6600?style=flat-square&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=websocket&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
   </tr>
 </table>
+
 
 ### 🎓 Établissement
 
 <p align="center">
   <a href="https://hers.be/">
-    <img src="hers2.png" width="70" alt="Haute Ecole Robert Schuman" />
+    <img src="hers2.png" width="100" alt="Haute Ecole Robert Schuman" />
   </a>
 </p>
 <p align="center">
