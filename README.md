@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://[ton-site-perso].com" target="_blank">
+  <a href="https://hitsuk0.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/chloé-wellinger-784513431" target="_blank">
