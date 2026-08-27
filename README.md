@@ -1,11 +1,3 @@
-<!--
-=========================================================
-  TEMPLATE README DE PROFIL GITHUB
-  Remplace tous les [CHAMPS ENTRE CROCHETS] par tes infos.
-  Remplace TON_HitsuK0 partout par ton vrai pseudo.
-=========================================================
--->
-
 <h1 align="center">Salut, je suis Chloé 👋</h1>
 
 <p align="center">
@@ -26,29 +18,11 @@
 
 ---
 
-### 🧑‍💻 À propos de moi
-
-- 🔭 Je travaille actuellement sur **[Projet en cours]**
-- 🌱 J'apprends actuellement **[Techno / langage que tu apprends]**
-- 👯 Je cherche à collaborer sur **[Type de projet]**
-- 💬 Demande-moi des infos sur **[Tes sujets d'expertise]**
-- 📫 Comment me contacter : **[email ou lien de contact]**
-- ⚡ Fun fact : **[Une anecdote sympa sur toi]**
-
----
-
 ### 📅 Mon activité en 3D
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HitsuK0/HitsuK0/main/profile-3d-contrib/profile-night-green.svg" />
 </p>
-
-<!--
-  Nécessite le workflow "profile-3d-contrib.yml" (voir message précédent).
-  Une fois le workflow lancé, choisis ta variante préférée dans le dossier
-  profile-3d-contrib/ généré (ex: profile-night-green.svg, profile-north-pole.svg...)
-  et remplace le nom du fichier ci-dessus.
--->
 
 ---
 
@@ -92,12 +66,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HitsuK0&theme=tokyonight&hide_border=true" />
 </p>
 
-<!--
-  Thèmes dispo pour varier les couleurs (remplace "tokyonight") :
-  dark, radical, merko, gruvbox, dracula, onedark, cobalt, synthwave, highcontrast...
-  Liste complète : https://github.com/anuraghazra/github-readme-stats#themes
--->
-
 ---
 
 ### 🚀 Projets phares
@@ -105,7 +73,7 @@
 <table>
   <tr>
     <td width="90" align="center">
-      <img src="[URL_LOGO_PROJET_1]" width="60" alt="Lexia" />
+      <img src="logo_lexia.png" width="60" alt="Lexia" />
     </td>
     <td>
       <b><a href="https://github.com/HitsuK0/[nom-du-repo-1]">Lexia</a></b><br/>
@@ -129,39 +97,20 @@
   </tr>
 </table>
 
-<!--
-  Astuce :
-  - [URL_LOGO_PROJET_X] : mets l'URL d'une image (logo du projet, icône, ou
-    une petite capture d'écran carrée). Tu peux héberger l'image directement
-    dans ton repo (ex: /assets/logo.png) et utiliser le lien raw.githubusercontent.com
-  - Pour ajouter d'autres badges de techno "en toutes lettres", cherche sur
-    https://shields.io ou pioche dans la liste ici :
-    https://github.com/Ileriayo/markdown-badges
-  - Duplique un <tr>...</tr> pour ajouter un 3e, 4e projet, etc.
--->
-
-
 ### 🎓 Établissement
 
 <p align="center">
   <a href="https://hers.be/">
-    <img src="[URL_LOGO_ECOLE]" width="70" alt="Haute Ecole Robert Schuman" />
+    <img src="hers2.png" width="70" alt="Haute Ecole Robert Schuman" />
   </a>
 </p>
 <p align="center">
-  <b><a href="[LIEN_SITE_ECOLE]">[Nom de l'école]</a></b><br/>
-  Étudiante depuis [année, ex: 2022]
+  <b><a href="https://hers.be/">Haute Ecole Robert Schuman</a></b><br/>
+  Étudiante depuis 2024
 </p>
 
-<!--
-  Astuce : héberge le logo de ton école dans ton repo (ex: /assets/ecole-logo.png)
-  et remplace [URL_LOGO_ECOLE] par le lien raw.githubusercontent.com correspondant,
-  ou utilise directement le logo trouvé sur le site de l'école si les droits le permettent.
--->
-
 ---
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HitsuK0&style=flat-square&color=blueviolet" alt="Compteur de visites" />
