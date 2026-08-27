@@ -26,32 +26,36 @@
 
 ---
 
+<div align="center">
+
 ### 🛠️ Stack technique
 
 **Langages de programmation**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cs,dotnet" />
 </p>
 
 **Bases de données**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,oracle" />
 </p>
 
 **Web**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
 </p>
 
 **Frameworks**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=spring,dotnet" />
 </p>
 
 **Outils**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,idea,visualstudio,vscode,git,github,gitlab" />
 </p>
+
+</div>
 
 ---
 
@@ -85,10 +89,10 @@
   </tr>
   <tr>
     <td width="90" align="center">
-      <img src="dailybackup.png" width="60" alt="DailyBackup" />
+      <img src="dailybackup.jpg" width="60" alt="DailyBackup" />
     </td>
     <td>
-      <b><a href="https://github.com/HitsuK0/[nom-du-repo-2]">DalyBackup</a></b><br/>
+      <b><a href="https://github.com/HitsuK0/[nom-du-repo-2]">DailyBackup</a></b><br/>
       Conception et développement d’une application de gestion de sauvegardes, permettant de configurer les fichiers à sauvegarder, restaurer des données et réinitialiser les paramètres.<br/><br/>
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
       <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
@@ -96,7 +100,7 @@
   </tr>
   <tr>
     <td width="90" align="center">
-      <img src="taskflow.png" width="60" alt="TaskFlow" />
+      <img src="taskflow.jpg" width="60" alt="TaskFlow" />
     </td>
     <td>
       <b><a href="https://github.com/HitsuK0/[nom-du-repo-2]">TaskFlow</a></b><br/>
@@ -114,7 +118,7 @@
 
 <p align="center">
   <a href="https://hers.be/">
-    <img src="hers2.png" width="100" alt="Haute Ecole Robert Schuman" />
+    <img src="hers.png" width="120" alt="Haute Ecole Robert Schuman" />
   </a>
 </p>
 <p align="center">
