@@ -77,7 +77,7 @@
       <img src="logo_lexia.png" width="60" alt="Lexia" />
     </td>
     <td>
-      <b><a href="https://github.com/HitsuK0/[nom-du-repo-1]">Lexia</a></b><br/>
+      <b><a href="https://github.com/HitsuK0/Lexia">Lexia</a></b><br/>
       Application de planification des horaires développée dans le cadre d’un projet scolaire réalisé pour l’ASBL Comprendre et Parler. <br/><br/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
@@ -89,7 +89,7 @@
       <img src="dailybackup.png" width="60" alt="DailyBackup" />
     </td>
     <td>
-      <b><a href="https://github.com/HitsuK0/[nom-du-repo-2]">DailyBackup</a></b><br/>
+      <b><a href="https://github.com/HitsuK0/DailyBackup">DailyBackup</a></b><br/>
       Conception et développement d’une application de gestion de sauvegardes, permettant de configurer les fichiers à sauvegarder, restaurer des données et réinitialiser les paramètres.<br/><br/>
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
       <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
@@ -100,7 +100,7 @@
       <img src="taskflow.png" width="60" alt="TaskFlow" />
     </td>
     <td>
-      <b><a href="https://github.com/HitsuK0/[nom-du-repo-2]">TaskFlow</a></b><br/>
+      <b><a href="https://github.com/HitsuK0/TaskFlow">TaskFlow</a></b><br/>
       Conception et développement d’une application collaborative de gestion de tâches en temps réel, avec authentification, gestion multi-utilisateurs et synchronisation via WebSocket. <br/><br/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaFX-FF6600?style=flat-square&logo=java&logoColor=white" />
