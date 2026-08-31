@@ -1,9 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Wellinger%20Chloé&reversal=true&textBg=false&desc=Développeuse&descAlign=50&descAlignY=61&descSize=40&fontAlignY=38&section=header&fontAlign=50" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=2E9EF7&center=true&vCenter=true&width=700&lines=%C3%89tudiante+en+informatique+%F0%9F%92%BB;Passionn%C3%A9e+par+le+d%C3%A9veloppement+logiciel;Curieuse+et+motiv%C3%A9e+face+aux+d%C3%A9fis+techniques;Je+transforme+des+id%C3%A9es+en+solutions+concr%C3%A8tes+%F0%9F%9A%80" />
 </p>
+
 <p align="center">
   <a href="https://hitsuk0.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
@@ -15,48 +17,70 @@
     <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
 </p>
+
 ---
+
 ### 📅 Mon activité en 3D
 <p align="center">
   <img src="https://raw.githubusercontent.com/HitsuK0/HitsuK0/main/profile-3d-contrib/profile-night-green.svg" />
 </p>
+
 ---
+
 <div align="center">
+
 ### 🛠️ Stack technique
 **Langages de programmation**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cs,dotnet,c,kotlin" />
 </p>
+
 **Bases de données**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
+
 **Web**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
 </p>
+
 **Frameworks & Architecture**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,dotnet" />
   <img src="https://img.shields.io/badge/Microservices-34495E?style=flat-square&logoColor=white" />
 </p>
+
 **DevOps**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,ansible" />
   <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
+
 **Outils**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode,git,github,gitlab" />
 </p>
+
 </div>
+
 ---
+
 ### 📊 Mes stats GitHub
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HitsuK0&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
+
 ### 🚀 Projets 
+
 <table>
   <tr>
     <td width="90" align="center">
@@ -95,20 +119,26 @@
     </td>
   </tr>
 </table>
+
 ### 🎓 Établissement
+
 <p align="center">
   <a href="https://hers.be/">
     <img src="hers.png" width="120" alt="Haute Ecole Robert Schuman" />
   </a>
 </p>
+
 <p align="center">
   <b><a href="https://hers.be/">Haute Ecole Robert Schuman</a></b><br/>
   Étudiante depuis 2024
 </p>
+
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HitsuK0&style=flat-square&color=blueviolet" alt="Compteur de visites" />
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&reversal=true&textBg=false&descAlign=50&descAlignY=62&descSize=40&fontAlignY=35&section=footer&fontAlign=44" />
 </p>
